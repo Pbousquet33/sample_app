@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: hln1vwvmc
+  api_key: '295857426864829'
+  api_secret: 6_m5aa4qgMp-ClVFcp2GR5SlKik
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: hln1vwvmc
+  api_key: '295857426864829'
+  api_secret: 6_m5aa4qgMp-ClVFcp2GR5SlKik
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: hln1vwvmc
+  api_key: '295857426864829'
+  api_secret: 6_m5aa4qgMp-ClVFcp2GR5SlKik
+  enhance_image_tag: true
+  static_image_support: false

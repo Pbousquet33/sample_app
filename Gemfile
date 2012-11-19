@@ -9,6 +9,7 @@ gem 'bootstrap-will_paginate', '0.0.6'
 gem 'newrelic_rpm'
 gem 'ey_config'
 gem 'unicorn', '1.1.5'
+gem 'cloudinary'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
