@@ -11,6 +11,7 @@ gem 'ey_config'
 gem 'unicorn', '1.1.5'
 gem 'cloudinary'
 
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
